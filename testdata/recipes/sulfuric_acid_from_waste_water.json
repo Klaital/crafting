@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "Sulfuric Waste Water Purification",
+    "Ingredients": [
+      {
+        "MaterialID": "sulfuric-waste-water",
+        "Quantity": 100
+      }
+    ],
+    "Results": [
+      {
+        "MaterialID": "mineralized-water",
+        "Quantity": 20
+      },
+      {
+        "MaterialID": "purified-water",
+        "Quantity": 70
+      },
+      {
+        "MaterialID": "mineralized-water",
+        "Quantity": 20
+      }
+    ],
+    "Seconds": 3
+  }
+]

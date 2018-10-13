@@ -1,0 +1,55 @@
+[
+  {
+    "Name": "Liquifying Blue Geode to Crystal Slurry",
+    "Ingredients": [
+      {
+        "MaterialID": "sulfuric-acid",
+        "Quantity": 15
+      },
+      {
+        "MaterialID": "blue-geode",
+        "Quantity": 5
+      }
+    ],
+    "Results": [
+      {
+        "MaterialID": "crystal-slurry",
+        "Quantity": 20
+      }
+    ],
+    "Seconds": 3
+  },
+
+  {
+    "Name": "Crystal Slurry to Mineral Sludge Coal Filtering",
+    "Ingredients": [
+      {
+        "MaterialID": "crystal-slurry",
+        "Quantity": 50
+      },
+      {
+        "MaterialID": "mineralized-water",
+        "Quantity": 100
+      },
+      {
+        "MaterialID": "coal-filter",
+        "Quantity": 1
+      }
+    ],
+    "Results": [
+      {
+        "MaterialID": "filter-frame",
+        "Quantity": 1
+      },
+      {
+        "MaterialID": "mineral-sludge",
+        "Quantity": 50
+      },
+      {
+        "MaterialID": "sulfuric-waste-water",
+        "Quantity": 30
+      }
+    ],
+    "Seconds": 3
+  },
+]

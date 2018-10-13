@@ -1,0 +1,50 @@
+[
+  {
+    "ID": "iron-plate",
+    "Name": "Iron Plate"
+  },
+  {
+    "ID": "sulfuric-acid",
+    "Name": "Sulfuric Acid"
+  },
+  {
+    "ID": "water",
+    "Name": "Water"
+  },
+  {
+    "ID": "oxygen",
+    "Name": "Oxygen Gas"
+  },
+  {
+    "ID": "hydrogen",
+    "Name": "Hydrogen Gas"
+  },
+  {
+    "ID": "mineral-sludge",
+    "Name": "Mineral Sludge"
+  },
+  {
+    "ID": "sulfuric-waste-water",
+    "Name": "Sulfuric Waste Water"
+  },
+  {
+    "ID": "blue-geode",
+    "Name": "Blue Geode"
+  },
+  {
+    "ID": "crystal-slurry",
+    "Name": "Crystal Slurry"
+  },
+  {
+    "ID": "mineralized-water",
+    "Name": "Mineralized Water"
+  },
+  {
+    "ID": "slag",
+    "Name": "Slag"
+  },
+  {
+    "ID": "crushed-stone",
+    "Name": "Crushed Stone"
+  }
+]
